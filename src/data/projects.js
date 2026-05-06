@@ -3,7 +3,7 @@ export const projects = [
     title: "UF-Nestmate – Full-Stack Housing Search & Match",
     org: "University of Florida",
     period: "March 2025 – May 2025",
-    github: "https://github.com/rbogulla/uf-nestmate",
+    github: "https://github.com/Kamehamehaaaaa/UF-NestMate",
     description: "End-to-end full-stack application connecting international students with off-campus housing and compatible roommates, serving 500+ beta users.",
     highlights: [
       "Architected microservices backend in Go with JWT-based authentication, RESTful APIs, and PostgreSQL.",
@@ -17,7 +17,7 @@ export const projects = [
     title: "CrimeLens – AI-Powered Crime Scene Analysis",
     org: "University of Florida",
     period: "Sept 2025 – Dec 2025",
-    github: "https://github.com/rbogulla/crimelens",
+    github: "https://github.com/Kamehamehaaaaa/CrimeLens",
     description: "Production-grade system transforming unstructured crime narratives into structured predictions using NLP and Graph Neural Networks.",
     highlights: [
       "Engineered scalable NER pipeline with spaCy and rule-based extraction, processing 100+ documents/second.",
@@ -31,7 +31,7 @@ export const projects = [
     title: "Page-level Comic/Manga Interpretation using Vision-Language Models",
     org: "University of Florida | Submitted to ACL 2025",
     period: "Jan 2025 – May 2025",
-    github: "https://github.com/rbogulla/comic-vlm",
+    github: "https://github.com/Kamehamehaaaaa/CAI6307-Second-Sight-Keystone-Project",
     description: "Pipeline for making comics/manga accessible to visually impaired users via screen reader integration.",
     highlights: [
       "Developed prompt engineering strategies for VLMs, improving page-level comprehension accuracy by 40%.",
@@ -44,7 +44,7 @@ export const projects = [
     title: "Protein Multi-Mutant Stability Ranking",
     org: "University of Florida",
     period: "Sept 2025 – Dec 2025",
-    github: "https://github.com/rbogulla/protein-stability",
+    github: "https://github.com/Kamehamehaaaaa/protein-multimutant-ranking",
     description: "ML surrogate model predicting protein stability changes (ΔΔG), enabling rapid screening of multi-mutant variants.",
     highlights: [
       "Implemented Genetic Algorithm for combinatorial mutant space exploration, outperforming Monte Carlo baseline by 30% in convergence speed.",
@@ -57,7 +57,7 @@ export const projects = [
     title: "BirdCLEF+ Kaggle Competition",
     org: "University of Florida",
     period: "Apr 2025 – Jun 2025",
-    github: "https://github.com/rbogulla/birdclef",
+    github: "https://github.com/Kamehamehaaaaa/Machine-Learning-CAP6610/tree/main/Project",
     description: "Dual-approach species identification system for rare birds, amphibians, mammals, and insects from audio samples.",
     highlights: [
       "Implemented CNN on mel spectrograms with custom loss function optimization for imbalanced rare species dataset.",
